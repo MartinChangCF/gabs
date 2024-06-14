@@ -1,3 +1,5 @@
+# This is a fork for GO 1.9 usage to avoid go get error.
+
 ![Gabs](gabs_logo.png "Gabs")
 
 [![pkg.go for Jeffail/gabs][godoc-badge]][godoc-url]
